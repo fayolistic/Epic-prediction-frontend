@@ -37,4 +37,4 @@ export default {
 - Eslint and prettier is updated in this repo
 - Header component has been created for reusable cases
 - You can your NavBar component in the created folder
-- Global css has also been created in the index.css, check for updates
+- Global css has also been created in the index.css, check for updates.
